@@ -66,7 +66,7 @@ Relevant topics:
 
 📫 **Contact**
 - Email: aminurmuda@gmail.com
-- LinkedIn: [your-linkedin]
+- LinkedIn: https://www.linkedin.com/in/aminurmuda/
 
 <!---
 aminurmuda/aminurmuda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
